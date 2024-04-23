@@ -23,6 +23,6 @@
 [<img align="left" alt="RodolfoLeal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
+[youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/leal_life28/
 [linkedin]: https://linkedin.com/in/rodolfo-leal-434a712a0
